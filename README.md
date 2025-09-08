@@ -12,7 +12,7 @@ I am also actively seeking research positions and collaborations in these areas.
 ### ✨Contact me!
 
 [![Static Badge](https://img.shields.io/badge/Download-CV-yellow?style=for-the-badge&labelColor=black)](CV\Resume_Bardiya_Kariminia.pdf)
-![Static Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&labelColor=black)
+[![Static Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&labelColor=black)](radiya2254@gmail.com)
 [![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&labelColor=black)](https://www.linkedin.com/in/bardiya-kariminia-96b140264/)
 
 ### 💪Skills
