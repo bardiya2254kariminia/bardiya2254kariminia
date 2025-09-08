@@ -36,6 +36,3 @@ I am also actively seeking research positions and collaborations in these areas.
 ![Static Badge](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&labelColor=black)
-
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=bardiya2254kariminia&theme=react-dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bardiya2254kariminia&show_icons=true&theme=radical)
