@@ -37,16 +37,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-## **🎯 Seeking Master's & Direct PhD positions in Generative AI — Media**
-
-</div>
-
----
-
 # ⚡ Overview
 
 Hi, I'm **Bardiya**, currently a **Bachelor's student in Computer Engineering at Shahid Beheshti University**, graduating in **Fall 2026**.
@@ -59,7 +49,7 @@ My main interests and collaborations are focused on **Computer Vision and Genera
 - 👁️ Vision-Language Models
 - ⚙️ Optimisation for Generative Models
 
-I am actively seeking **direct PhD and Master's research positions in Generative AI, particularly in the media branch**, and I am open to research collaborations in related areas.
+I am currently seeking **direct PhD and Master's research positions in Generative AI, particularly in the media branch**.
 ---
 
 # 🔬 Research Interests
@@ -128,14 +118,7 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 # 💻 Skills
 
 <div align="left">
-
-### 👨‍💻 Programming
-
 <img src="https://skillicons.dev/icons?i=python,cpp,c&perline=8" alt="Python C++ C"/>
-
-<br><br>
-
-### 🧠 AI & Deep Learning
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=8" alt="PyTorch TensorFlow"/>
 
@@ -146,16 +129,8 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 <img src="https://img.shields.io/badge/gsplat-0891B2?style=for-the-badge" alt="gsplat"/>
 <img src="https://img.shields.io/badge/DeepFace-0F766E?style=for-the-badge" alt="DeepFace"/>
 
-<br><br>
-
-### 👁️ Computer Vision & Image Processing
-
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 <img src="https://img.shields.io/badge/Pillow-F59E0B?style=for-the-badge&logo=python&logoColor=white" alt="Pillow"/>
-
-<br><br>
-
-### 📊 Data Science & Scientific Computing
 
 <img src="https://img.shields.io/badge/NumPy-2563EB?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-E11D48?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -163,31 +138,9 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 <img src="https://img.shields.io/badge/Scikit--Learn-F97316?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
 <img src="https://img.shields.io/badge/Seaborn-7C3AED?style=for-the-badge" alt="Seaborn"/>
 
-<br><br>
-
-### 🧰 Tools
-
 <img src="https://skillicons.dev/icons?i=git,latex&perline=8" alt="Git LaTeX"/>
 
 </div>
-# ✨ Contact Me
-
-<div align="center">
-
-<a href="https://bardiya2254kariminia.github.io/">
-  <img src="https://img.shields.io/badge/🌐_WEBSITE-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-</a>
-
-<a href="mailto:radiya2254@gmail.com">
-  <img src="https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://www.linkedin.com/in/bardiya-kariminia-96b140264/">
-  <img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-</div>
-
 ---
 
 # 📊 GitHub
