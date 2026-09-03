@@ -8,15 +8,11 @@
   alt="Generative AI animated gradient text"
 />
 
-<br>
-
 <img
   src="https://readme-svg-wave-divider-generator.vercel.app/wave?type=smooth&width=1400&height=300&amplitude=35&frequency=1.5&layers=3&color_top=1565FF&color_bottom=FF7A18&gradient=true"
   width="100%"
   alt="Animated blue and orange wave"
 />
-
-<br><br>
 
 <a href="https://bardiya2254kariminia.github.io/">
   <img
@@ -38,13 +34,6 @@
     alt="LinkedIn"
   />
 </a>
-
-<br><br>
-
-<img
-  src="https://komarev.com/ghpvc/?username=bardiya2254&style=for-the-badge&color=7C3AED&label=PROFILE+VISITORS"
-  alt="Profile visitors"
-/>
 
 </div>
 
@@ -71,13 +60,6 @@ My main interests and collaborations are focused on **Computer Vision and Genera
 - ⚙️ Optimisation for Generative Models
 
 I am actively seeking **direct PhD and Master's research positions in Generative AI, particularly in the media branch**, and I am open to research collaborations in related areas.
-
-🎓 **B.S. in Computer Engineering** — Shahid Beheshti University  
-📅 **Graduation:** Fall 2026  
-📊 **GPA:** 18.78 / 20.00
-
-🌐 **Website:** [bardiya2254kariminia.github.io](https://bardiya2254kariminia.github.io/)
-
 ---
 
 # 🔬 Research Interests
@@ -131,10 +113,10 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 
 ### ⚙️ Optimization
 
-- Bayesian Optimization
+- Bayesian Optimisation
 - Determinantal Point Processes
-- Multi-Objective Optimization
-- Diversity Optimization
+- Multi-Objective Optimisation
+- Diversity Optimisation
 
 </td>
 
