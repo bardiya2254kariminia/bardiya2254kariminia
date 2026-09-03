@@ -16,14 +16,14 @@
 
 <a href="https://bardiya2254kariminia.github.io/">
   <img
-    src="https://img.shields.io/badge/🌐_PERSONAL_WEBSITE-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"
+    src="https://img.shields.io/badge/_PERSONAL_WEBSITE-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"
     alt="Personal Website"
   />
 </a>
 
 <a href="mailto:radiya2254@gmail.com">
   <img
-    src="https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
   />
 </a>
