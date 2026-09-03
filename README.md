@@ -52,11 +52,7 @@
 
 <div align="center">
 
-## 🎯 Open to Research Opportunities
-
-### **Seeking Master's & Direct PhD positions in Generative AI — Media**
-
-*Open to research collaborations in Computer Vision, Generative AI, Vision-Language Models, and related areas.*
+## **🎯 Seeking Master's & Direct PhD positions in Generative AI — Media**
 
 </div>
 
@@ -64,23 +60,20 @@
 
 # ⚡ Overview
 
-Hi, I'm **Bardiya**, currently a **Bachelor's student in Computer Engineering at Shahid Beheshti University**, graduating in **Fall 2027**.
+Hi, I'm **Bardiya**, currently a **Bachelor's student in Computer Engineering at Shahid Beheshti University**, graduating in **Fall 2026**.
 
 My main interests and collaborations are focused on **Computer Vision and Generative AI**, especially:
 
-- 🎨 GANs
-- 🌊 Diffusion Models
-- 🖼️ Text-to-Image Diffusion Models
-- 🧠 Catastrophic Forgetting
-- 👁️ Vision-Language Models
-- 🏥 Medical Imaging
+- 🌊 Diffusion Models and DiT
+- 🎨 Image and Video Editing
 - 🌌 Neural Rendering & 3D Vision
-- ⚙️ Optimization for Generative Models
+- 👁️ Vision-Language Models
+- ⚙️ Optimisation for Generative Models
 
 I am actively seeking **direct PhD and Master's research positions in Generative AI, particularly in the media branch**, and I am open to research collaborations in related areas.
 
 🎓 **B.S. in Computer Engineering** — Shahid Beheshti University  
-📅 **Graduation:** Fall 2027  
+📅 **Graduation:** Fall 2026  
 📊 **GPA:** 18.78 / 20.00
 
 🌐 **Website:** [bardiya2254kariminia.github.io](https://bardiya2254kariminia.github.io/)
@@ -89,25 +82,44 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 
 # 🔬 Research Interests
 
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ### 🎨 Generative AI
 
 - Diffusion Models
 - Diffusion Transformers
-- GANs
-- Variational Autoencoders
-- Text-to-Image Generation
 - Image Generation
-- Generative Image Editing
-- Catastrophic Forgetting
+- Image and Video Editing
+- Camera Control for Images & Videos
+- Epipolar Geometry
 
-### 👁️ Computer Vision
+</td>
 
-- Image Understanding
-- Image-to-Image Transformation
-- Visual Representation Learning
-- Multi-View Vision
-- Face Analysis
-- Image Editing
+<td width="50%" valign="top">
+
+### 🌌 Neural Rendering & 3D
+
+- NeRF
+- 3D Gaussian Splatting
+- 3D Reconstruction
+- Multi-View Generation
+- Camera Pose Estimation
+- Neural Rendering
+- Camera-Controlled Asset Creation
+- Epipolar Geometry
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🧠 Vision-Language Models
 
@@ -118,44 +130,40 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 - Logical Polarity
 - Visual Reasoning
 
-### 🌌 Neural Rendering & 3D
+</td>
 
-- NeRF
-- 3D Gaussian Splatting
-- 3D Reconstruction
-- Multi-View Generation
-- Camera Pose Estimation
-- Neural Rendering
+<td width="50%" valign="top">
 
 ### ⚙️ Optimization
 
 - Bayesian Optimization
-- Evolutionary Algorithms
-- NSGA-II
 - Determinantal Point Processes
 - Multi-Objective Optimization
 - Diversity Optimization
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
 # 💻 Skills
 
-## 👨‍💻 Programming
-
 <div align="center">
+
+### 👨‍💻 Programming
 
 <img
   src="https://skillicons.dev/icons?i=python,cpp,c&perline=8"
   alt="Python C++ C"
 />
 
-</div>
+<br><br>
 
----
-
-## 🧠 AI & Deep Learning
-
-<div align="center">
+### 🧠 AI & Deep Learning
 
 <img
   src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=8"
@@ -171,24 +179,16 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 <img src="https://img.shields.io/badge/gsplat-0891B2?style=for-the-badge" alt="gsplat"/>
 <img src="https://img.shields.io/badge/DeepFace-0F766E?style=for-the-badge" alt="DeepFace"/>
 
-</div>
+<br><br>
 
----
-
-## 👁️ Computer Vision & Image Processing
-
-<div align="center">
+### 👁️ Computer Vision & Image Processing
 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 <img src="https://img.shields.io/badge/Pillow-F59E0B?style=for-the-badge&logo=python&logoColor=white" alt="Pillow"/>
 
-</div>
+<br><br>
 
----
-
-## 📊 Data Science & Scientific Computing
-
-<div align="center">
+### 📊 Data Science & Scientific Computing
 
 <img src="https://img.shields.io/badge/NumPy-2563EB?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-E11D48?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -196,37 +196,14 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 <img src="https://img.shields.io/badge/Scikit--Learn-F97316?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
 <img src="https://img.shields.io/badge/Seaborn-7C3AED?style=for-the-badge" alt="Seaborn"/>
 
-</div>
+<br><br>
 
----
-
-## 🧰 Tools
-
-<div align="center">
+### 🧰 Tools
 
 <img
   src="https://skillicons.dev/icons?i=git,latex&perline=8"
   alt="Git LaTeX"
 />
-
-</div>
-
----
-
-# 📚 Teaching
-
-I have worked as a Teaching Assistant for:
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge" alt="Artificial Intelligence"/>
-<img src="https://img.shields.io/badge/Linear%20Algebra-0891B2?style=for-the-badge" alt="Linear Algebra"/>
-<img src="https://img.shields.io/badge/Advanced%20Programming-E11D48?style=for-the-badge" alt="Advanced Programming"/>
-<img src="https://img.shields.io/badge/Discrete%20Mathematics-F59E0B?style=for-the-badge" alt="Discrete Mathematics"/>
-<img src="https://img.shields.io/badge/Statistics-0F766E?style=for-the-badge" alt="Statistics"/>
-<img src="https://img.shields.io/badge/Computer%20Architecture-DC2626?style=for-the-badge" alt="Computer Architecture"/>
-<img src="https://img.shields.io/badge/Operating%20Systems-4A4E69?style=for-the-badge" alt="Operating Systems"/>
 
 </div>
 
@@ -268,11 +245,7 @@ I have worked as a Teaching Assistant for:
   alt="Top Languages"
 />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=bardiya2254&hide_border=true&theme=default"
@@ -303,7 +276,7 @@ I have worked as a Teaching Assistant for:
 
 <br><br>
 
-<!-- ======================== ANIMATED BLUE → ORANGE FOOTER ======================== -->
+<!-- ======================== ANIMATED FOOTER ======================== -->
 
 <div align="center">
 
@@ -316,7 +289,7 @@ I have worked as a Teaching Assistant for:
 <br>
 
 <img
-  src="https://scribesvg.vercel.app/api/render?lines=See+you+in+the+latent+space+%F0%9F%9A%80;Keep+Building+%F0%9F%A7%A0;Keep+Researching+%F0%9F%94%AC;Thanks+for+visiting!+%F0%9F%91%8B&font=Fira%20Code&size=20&gradient=1565FF,FF7A18&background=transparent&cursor=none&speed=70&deleteSpeed=40&pause=1200&textGlow=2&center=true&attribution=false"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&height=55&lines=See+you+in+the+latent+space+%F0%9F%9A%80;Keep+Building+%F0%9F%A7%A0;Keep+Researching+%F0%9F%94%AC;Thanks+for+visiting!+%F0%9F%91%8B"
   alt="Animated footer text"
 />
 
