@@ -84,23 +84,23 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="25%" valign="top" align="center">
 
 ### 🎨 Generative AI
 
 - Diffusion Models
 - Diffusion Transformers
 - Image Generation
-- Image and Video Editing
-- Camera Control for Images & Videos
+- Image & Video Editing
+- Camera Control
 - Epipolar Geometry
 
 </td>
 
-<td width="50%" valign="top">
+<td width="25%" valign="top" align="center">
 
 ### 🌌 Neural Rendering & 3D
 
@@ -110,16 +110,11 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 - Multi-View Generation
 - Camera Pose Estimation
 - Neural Rendering
-- Camera-Controlled Asset Creation
-- Epipolar Geometry
+- Camera-Controlled Assets
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+<td width="25%" valign="top" align="center">
 
 ### 🧠 Vision-Language Models
 
@@ -132,7 +127,7 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 
 </td>
 
-<td width="50%" valign="top">
+<td width="25%" valign="top" align="center">
 
 ### ⚙️ Optimization
 
@@ -154,7 +149,7 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 
 <div align="center">
 
-### 👨‍💻 Programming
+## 👨‍💻 Programming
 
 <img
   src="https://skillicons.dev/icons?i=python,cpp,c&perline=8"
@@ -163,7 +158,7 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 
 <br><br>
 
-### 🧠 AI & Deep Learning
+## 🧠 AI & Deep Learning
 
 <img
   src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=8"
@@ -181,14 +176,14 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 
 <br><br>
 
-### 👁️ Computer Vision & Image Processing
+## 👁️ Computer Vision & Image Processing
 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 <img src="https://img.shields.io/badge/Pillow-F59E0B?style=for-the-badge&logo=python&logoColor=white" alt="Pillow"/>
 
 <br><br>
 
-### 📊 Data Science & Scientific Computing
+## 📊 Data Science & Scientific Computing
 
 <img src="https://img.shields.io/badge/NumPy-2563EB?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-E11D48?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -198,7 +193,7 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 
 <br><br>
 
-### 🧰 Tools
+## 🧰 Tools
 
 <img
   src="https://skillicons.dev/icons?i=git,latex&perline=8"
@@ -276,7 +271,7 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 
 <br><br>
 
-<!-- ======================== ANIMATED FOOTER ======================== -->
+<!-- ======================== ANIMATED BLUE → ORANGE FOOTER ======================== -->
 
 <div align="center">
 
