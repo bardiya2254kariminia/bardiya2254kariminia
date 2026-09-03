@@ -141,45 +141,4 @@ I am currently seeking **direct PhD and Master's research positions in Generativ
 <img src="https://skillicons.dev/icons?i=git,latex&perline=8" alt="Git LaTeX"/>
 
 </div>
----
 
-# 📊 GitHub
-
-<div align="center">
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=bardiya2254&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default"
-  alt="GitHub Stats"
-/>
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardiya2254&layout=compact&hide_border=true&langs_count=8&theme=default"
-  alt="Top Languages"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=bardiya2254&hide_border=true&theme=default"
-  alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-<!-- ======================== ANIMATED BLUE → ORANGE FOOTER ======================== -->
-
-<div align="center">
-
-<img
-  src="https://readme-svg-wave-divider-generator.vercel.app/wave?type=sine&width=1400&height=150&amplitude=24&frequency=2&layers=3&color_top=1565FF&color_bottom=FF7A18&gradient=true"
-  width="100%"
-  alt="Animated blue to orange footer"
-/>
-
-<br>
-
-</div>
