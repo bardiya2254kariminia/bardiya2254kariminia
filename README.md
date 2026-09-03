@@ -87,7 +87,7 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 <table width="100%">
 <tr>
 
-<td width="25%" valign="top" align="center">
+<td width="25%" valign="top">
 
 ### 🎨 Generative AI
 
@@ -100,7 +100,7 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 
 </td>
 
-<td width="25%" valign="top" align="center">
+<td width="25%" valign="top">
 
 ### 🌌 Neural Rendering & 3D
 
@@ -114,7 +114,7 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 
 </td>
 
-<td width="25%" valign="top" align="center">
+<td width="25%" valign="top">
 
 ### 🧠 Vision-Language Models
 
@@ -127,7 +127,7 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 
 </td>
 
-<td width="25%" valign="top" align="center">
+<td width="25%" valign="top">
 
 ### ⚙️ Optimization
 
@@ -143,29 +143,19 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 
 </div>
 
----
-
 # 💻 Skills
 
-<div align="center">
+<div align="left">
 
-## 👨‍💻 Programming
+### 👨‍💻 Programming
 
-<img
-  src="https://skillicons.dev/icons?i=python,cpp,c&perline=8"
-  alt="Python C++ C"
-/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c&perline=8" alt="Python C++ C"/>
 
 <br><br>
 
-## 🧠 AI & Deep Learning
+### 🧠 AI & Deep Learning
 
-<img
-  src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=8"
-  alt="PyTorch TensorFlow"
-/>
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=8" alt="PyTorch TensorFlow"/>
 
 <img src="https://img.shields.io/badge/JAX-5B21B6?style=for-the-badge&logo=jax&logoColor=white" alt="JAX"/>
 <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers"/>
@@ -176,14 +166,14 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 
 <br><br>
 
-## 👁️ Computer Vision & Image Processing
+### 👁️ Computer Vision & Image Processing
 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 <img src="https://img.shields.io/badge/Pillow-F59E0B?style=for-the-badge&logo=python&logoColor=white" alt="Pillow"/>
 
 <br><br>
 
-## 📊 Data Science & Scientific Computing
+### 📊 Data Science & Scientific Computing
 
 <img src="https://img.shields.io/badge/NumPy-2563EB?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-E11D48?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -193,17 +183,11 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 
 <br><br>
 
-## 🧰 Tools
+### 🧰 Tools
 
-<img
-  src="https://skillicons.dev/icons?i=git,latex&perline=8"
-  alt="Git LaTeX"
-/>
+<img src="https://skillicons.dev/icons?i=git,latex&perline=8" alt="Git LaTeX"/>
 
 </div>
-
----
-
 # ✨ Contact Me
 
 <div align="center">
@@ -251,26 +235,6 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 
 ---
 
-# 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://bardiya2254kariminia.github.io/">
-  <img src="https://img.shields.io/badge/🌐_PERSONAL_WEBSITE-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website"/>
-</a>
-
-<a href="https://www.linkedin.com/in/bardiya-kariminia-96b140264/">
-  <img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:radiya2254@gmail.com">
-  <img src="https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
-<br><br>
-
 <!-- ======================== ANIMATED BLUE → ORANGE FOOTER ======================== -->
 
 <div align="center">
@@ -282,10 +246,5 @@ I am actively seeking **direct PhD and Master's research positions in Generative
 />
 
 <br>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&height=55&lines=See+you+in+the+latent+space+%F0%9F%9A%80;Keep+Building+%F0%9F%A7%A0;Keep+Researching+%F0%9F%94%AC;Thanks+for+visiting!+%F0%9F%91%8B"
-  alt="Animated footer text"
-/>
 
 </div>
