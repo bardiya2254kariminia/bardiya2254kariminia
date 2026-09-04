@@ -39,7 +39,7 @@
 
 # ⚡ Overview
 
-Hi, I'm **Bardiya**, currently a **Bachelor's student in Computer Engineering at Shahid Beheshti University**, graduating in **Fall 2026**.
+Hi, I'm **Bardiya**, currently a **Bachelor's student in Computer Engineering at Shahid Beheshti University**, graduating in **January 2027**.
 
 My main interests and collaborations are focused on **Computer Vision and Generative AI**, especially:
 
